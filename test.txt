@@ -1,5 +1,6 @@
 ping ping ping
 pong pong pong
 
-testing git revert 
-after pushing commit to remote repository
+testing git gui&
+new commit
+new line
